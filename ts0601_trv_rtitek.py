@@ -735,7 +735,7 @@ class Rti(TuyaThermostat):
             ("_TZE200_a4bpgplm", "TS0601"),
             ("_TZE200_dv8abrrz", "TS0601"),
             ("_TZE200_z1tyspqw", "TS0601"),
-            ("_TZE200_rtrmfadk", "TS0601"),
+            ("_TZE204_rtrmfadk", "TS0601"),
         ],
         ENDPOINTS: {
             1: {
